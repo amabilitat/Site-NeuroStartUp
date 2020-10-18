@@ -1,0 +1,16 @@
+# gitignore template 
+
+# gitignore Thumbs.db
+Thumbs.db
+
+# gitignore .DS_Store
+.DS_Store
+
+# gitignore tmp
+/tmp
+
+# gitignore *_old
+*_old
+
+# gitignore *_old
+*_backup
